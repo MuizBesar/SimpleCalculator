@@ -1,2 +1,2 @@
 # SimpleCalculator
-Calculator on webpage
+Calculator on webpage.
